@@ -1,1 +1,1 @@
-Hello, my name is Sujal Nahata and this is the repository of my online protfolio.
+Hello, my name is Sujal Nahata and this is the repository of my online protfolio. Feel free to check it out!
